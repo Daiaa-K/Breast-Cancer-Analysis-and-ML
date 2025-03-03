@@ -81,7 +81,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Results
 
-The best performing model achieved an accuracy of X% on the test set. The confusion matrix and ROC curve are provided in the results directory.
+The best performing model achieved an accuracy of 95% on the test set. The confusion matrix and f1 scire are in the notebook.
 
 ## Conclusion
 
