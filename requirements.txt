@@ -9,3 +9,4 @@ statsmodels
 xgboost
 fastapi
 uvicorn
+python-dotenv
